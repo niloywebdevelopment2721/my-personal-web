@@ -1,0 +1,98 @@
+body{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.name-heighlight{
+    color:rgb(240, 4, 220);
+    font-size:40px;
+}
+.half-width{
+         width: 45%;
+         float: left;
+         padding-left:60px;
+         margin-left:2px;
+         
+
+
+}
+.half-width img{
+    width: 80%;
+    padding-left:5%;
+}
+.link-button{
+          text-decoration:none;
+          background-color: rgb(233, 8, 177);
+          padding: 10px 20px;
+          border-radius: 5px;
+          color: white;
+          font-size:15px;
+}
+.first-area{
+    background-image: url(images/header-bg.png);
+}
+p{
+    color:gray;
+}
+section{
+    height:400px;
+    padding-bottom: 200px;
+    
+}
+.second-area{
+         background-image:url(images/biography-bg.png);
+}
+h2{
+    font-size: 40px;
+    
+}
+.third-area{
+    background-image:url(images/latest-work-bg.png);
+
+}
+.first-img img{
+    width: 30%;
+    float:left;
+    padding-left:5%;
+}
+.second-img img{
+    width:30%;
+    float: left;
+}
+.third-img img{
+    width: 30%;
+    float: left;
+}
+
+
+
+
+.center{
+    font-size: 30px;
+    text-align: center;
+}
+.forth-area{
+    background-image:url(images/footer-bg.png) ;
+}
+.forth-area{
+         text-align:center;
+
+}
+.forth-area{
+    background-image:url(images/footer-bg.png);
+}
+
+
+.word-bold{
+    font-size:35px;
+}
+
+.done{
+    background-color: rgb(240, 7, 162);
+    padding:20px 40px;
+    border-radius: 10px;
+    color:white;
+}
+footer{
+    text-align:center;
+    font-size: 14px;
+}
